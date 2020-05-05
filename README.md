@@ -1,4 +1,4 @@
-## Class syallbus project
+## Class syllabus project
 
 ** Project for Git Course **
 
